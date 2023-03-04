@@ -2,7 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 # Demo
-Open [https://github.com/imsahadeb/ipod-mini](Ipod mini)
+Open [https://github.com/imsahadeb/ipod-mini] 
 
 ## Available Scripts
 
